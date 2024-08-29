@@ -6,7 +6,7 @@ We usually split the data into 3 subsets: Training, Cross-validation, and test s
 ## Project Structure
 
 - `data`: Contains the dataset (`salary_data.csv`).
-- `notebooks/`: Jupyter notebooks 
+- `notebooks/`: Jupyter notebooks, scaler_X, poly, and scaler_poly : scaler_X and scaler_poly store the scaler for linear model and polynomial model, poly store the PolynomialFeature.
 - `scripts/`: Python scripts for data loading, model training, and comparison.
 - `README.md`: Project overview and usage guide.
 - `requirements.txt`: Required Python libraries.
