@@ -31,4 +31,4 @@ We usually split the data into 3 subsets: Training, Cross-validation, and test s
 - Predict: `Sciprts/predict.py`
 
 ## Results
-- Linear Regression, Polynomial Regression and Neural Network models have been trained and compared for the small data set with only one single feature.
+Linear Regression, Polynomial Regression and Neural Network models have been trained and compared for the small data set with only one single feature.
