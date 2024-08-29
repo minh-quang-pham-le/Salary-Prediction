@@ -1,4 +1,4 @@
-# Salary Prediction Regression
+# Salary Prediction using Regression
 
 This project aims to predict salary based on only one simple feature "years of experience" using regression models and compare it with a neural network model.
 The dataset is downloaded from "https://www.kaggle.com/rsadiq/salary" with 35 examples (1 feature and 1 target) in total.
