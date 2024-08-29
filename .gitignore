@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (e.g., venv or .env)
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# OS-specific files (macOS)
+.DS_Store
+
+# Trained models
+models/*.pkl
+models/*.h5
+
+# Python packages
+*.egg-info/
+dist/
+build/
+
+# IDE-specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
