@@ -2,13 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Scripts/__pycache__/
 
 # Virtual environment (e.g., venv or .env)
 venv/
 .env/
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints
+Notebooks/.ipynb_checkpoints/
 
 # Log files
 *.log
