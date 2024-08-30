@@ -1,8 +1,7 @@
 # Salary Prediction using Regression
 
-This project aims to predict salary based on only one simple feature "years of experience" using regression models and compare it with a neural network model.
-The dataset is downloaded from "https://www.kaggle.com/rsadiq/salary" with 35 examples (1 feature and 1 target) in total.
-We usually split the data into 3 subsets: Training, Cross-validation, and test set. Due to the small size of the data set, I only divided the data into 2 subsets: 80% training set and 20% test set. And compare between models to see which model is the best.
+This project aims to predict salary based on only one simple feature "years of experience" using regression models and compare it with a neural network model. The dataset is downloaded from "https://www.kaggle.com/rsadiq/salary" with 35 examples (1 feature and 1 target) in total. We usually split the data into 3 subsets: Training, Cross-validation, and test set. Due to the small size of the data set, I only divided the data into 2 subsets: 80% training set and 20% test set. And compare between models to see which model is the best.
+
 ## Project Structure
 
 - `data`: Contains the dataset (`salary_data.csv`).
