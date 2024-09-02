@@ -12,10 +12,12 @@ This project aims to predict salary based on only one simple feature "years of e
 
 ## How to Set Up and Run the Project
 1. Clone the repository:
+
    `git clone https://github.com/yourusername/salary-prediction-regression.git`
+   
    `cd salary-prediction-regression`
    
-2. Create and activate a virtual environment
+3. Create and activate a virtual environment
   `python -m venv venv`
 
   `source venv/bin/activate`    # On macOS/Linux
