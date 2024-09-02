@@ -17,13 +17,15 @@ This project aims to predict salary based on only one simple feature "years of e
    
 2. Create and activate a virtual environment
   `python -m venv venv`
+
   `source venv/bin/activate`    # On macOS/Linux
+  
   `venv\Scripts\activate`       # On Windows
  
-3. Install the required libraries:
+4. Install the required libraries:
    `pip install -r requirements.txt`
 
-4. All commands are displayed in the notebook in the Scripts file:
+5. All commands are displayed in the notebook in the Scripts file:
 - Data loading and preprocessing: `Scripts/data_loading.py`
 - Model training: `Scripts/model_training.py`
 - Model comparison: `Scripts/model_comparison.py`
