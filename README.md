@@ -18,11 +18,11 @@ This project aims to predict salary based on only one simple feature "years of e
    `cd salary-prediction-regression`
    
 3. Create and activate a virtual environment
-  `python -m venv venv`
+   `python -m venv venv`
 
-  `source venv/bin/activate`    # On macOS/Linux
+   `source venv/bin/activate`    # On macOS/Linux
   
-  `venv\Scripts\activate`       # On Windows
+   `venv\Scripts\activate`       # On Windows
  
 4. Install the required libraries:
    `pip install -r requirements.txt`
